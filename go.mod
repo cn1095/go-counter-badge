@@ -1,4 +1,4 @@
-module github.com/gjbae1212/go-counter-badge
+module github.com/cn1095/go-counter-badge
 
 go 1.14
 
